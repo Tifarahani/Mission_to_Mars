@@ -8,7 +8,10 @@ The mission to Mars project enable us to use our knowlwdge of web scrapping extr
 * Facts about the planet
 * Images of the hemispheres
 ---
-### Resources 
+### Resources
+* Jupyter Notebook
+* Python
+* MongoDb
 ---
 
 ###  Deliverable 1: 
@@ -35,5 +38,10 @@ The mission to Mars project enable us to use our knowlwdge of web scrapping extr
 
 ### Deliverable 2:
 * Update the Web App with Mars Hemisphere Images and Titles
+Using the database in Mongo, we create a Flask app to connect to the information and create our app routes. These routes help to display the information on the home page and will perform the scraping of new data using the codes that we wrote in the Python script.
+
+
+
+Next, we integrate Mongo into the web app so that the data stored is updated every time the script, "Scraping.py" is run.
 ### Deliverable 3: 
 * Add Bootstrap 3 Components
