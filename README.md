@@ -7,19 +7,19 @@
 <img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/D1.1.png">
 </p>
 <p align="center">  
-<i>Figure 1: </i>
+<i>Figure 1:Use browser to visit the URL </i>
 </p>
 <p align="center">  
 <img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/D1.2.3.png">
 </p>
 <p align="center">  
-<i>Figure 2: </i>
+<i>Figure 2: Creating list and retrieve the image urls and titles for each hemisphere </i>
 </p>
 <p align="center">  
 <img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/D1.4.png">
 </p>
 <p align="center">  
-<i>Figure 3: </i>
+<i>Figure 3:Print the list that holds the dictionary of each image url and title  </i>
 </p>
 
 ### Deliverable 2:
