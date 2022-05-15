@@ -19,7 +19,7 @@
 <img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/D1.4..png">
 </p>
 <p align="center">  
-<i>Figure 3:Print the list that holds the dictionary of each image url and title  </i>
+<i>Figure 3:Print the list that holds the dictionary of each image url and title and quiting browser </i>
 </p>
 
 ### Deliverable 2:
