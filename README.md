@@ -4,7 +4,7 @@
 * Scrape Full-Resolution Mars Hemisphere Images and Titles
 
 <p align="center">  
-<img src="https://github.com/Tifarahani/Pewlett-Hackard-Analysis/blob/main/Table%20results/EmployeesTitleDuplicates.png" width="50%" height="50%">
+<img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/D1.1.png" width="50%" height="50%">
 </p>
 <p align="center">  
 <i>Figure 2: Employee’s data who are ready to retire</i>
