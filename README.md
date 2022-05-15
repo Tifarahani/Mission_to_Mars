@@ -18,19 +18,19 @@ The mission to Mars project enable us to use our knowlwdge of web scrapping extr
 * Scrape Full-Resolution Mars Hemisphere Images and Titles
 
 <p align="center">  
-<img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/D1.1.png">
+<img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/D1.1.png"  width="60%" height="60%">
 </p>
 <p align="center">  
 <i>Figure 1:Use browser to visit the URL </i>
 </p>
 <p align="center">  
-<img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/D1.2.3.png">
+<img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/D1.2.3.png"  width="60%" height="60%">
 </p>
 <p align="center">  
 <i>Figure 2: Creating list and retrieve the image urls and titles for each hemisphere </i>
 </p>
 <p align="center">  
-<img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/D1.4..png">
+<img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/D1.4..png"  width="60%" height="60%">
 </p>
 <p align="center">  
 <i>Figure 3:Print the list that holds the dictionary of each image url and title and quiting browser </i>
