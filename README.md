@@ -18,7 +18,7 @@ The mission to Mars project enable us to use our knowlwdge of web scrapping extr
 * Scrape Full-Resolution Mars Hemisphere Images and Titles
 
 <p align="center">  
-<img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/D1.1.png"  width="60%" height="60%">
+<img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/D1.1.png"  width="30%" height="30%">
 </p>
 <p align="center">  
 <i>Figure 1:Use browser to visit the URL </i>
