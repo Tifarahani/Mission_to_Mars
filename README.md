@@ -42,7 +42,7 @@ Using the database in Mongo, we create a Flask app to connect to the information
 These routes help to display the information on the home page and will perform the scraping of new data using the codes that we wrote in the Python script.
 
 <p align="center">  
-<img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/D1.4..png"  width="90%" height="90%">
+<img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/Button.png"  width="90%" height="90%">
 </p>
 <p align="center">  
 <i>Figure 4:Print the list that holds the dictionary of each image url and title and quiting browser </i>
