@@ -72,7 +72,8 @@ Lastly, we modified the HTML file to loop through the dictionary and pull the ti
 <p align="center">  
 <i>Figure 6:Print the list that holds the dictionary of each image url and title and quiting browser </i>
 </p>
-
+(2) Changed the orientation of the hemisphere images to a single ribbon by changing the grid from `col-md-6` to `col-md-3`.
+(3) Updated the background color of the entire webpage by modifying the `<body>` tag with `<body style="background-color:darksalmon; color:black">`.
 <p align="center"> 
 <img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/hemisphere.png"  width="70%" height="70%">
 </p>
@@ -81,6 +82,5 @@ Lastly, we modified the HTML file to loop through the dictionary and pull the ti
 </p>
 
 
-To complete the final deliverable, the following changes were made to the `Bootstrap` components to customize the view of the page:
 
 
