@@ -46,7 +46,9 @@ Lastly, we modified the HTML file to loop through the dictionary and pull the ti
 ### Deliverable 3: 
 * Add Bootstrap 3 Components
 
-
+(1) Updated the color of the Jumbotron header by adding gradient color shading and changing the color of the scrape button.
+ - **original tag** `<div class_"jumbotron text-center">` & `<a class="btn btn-primary btn-lg">`
+ - 
 <p align="center">  
 <img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/Button_Original.png"  width="70%" height="70%">
 </p>
@@ -62,8 +64,8 @@ Lastly, we modified the HTML file to loop through the dictionary and pull the ti
 <i>Figure 5 :Original hemisphere </i>
 </p>
 
-**updated tag**  `<div style="background:linear-gradient(to bottom, #ffcccc 15%, #e9967a 85%)!important" class="jumbotron text-center">` & `<a class="btn btn-default btn-lg">`
 
+- **updated tag**  `<div style="background:linear-gradient(to bottom, #ffcccc 15%, #e9967a 85%)!important" class="jumbotron text-center">` & `<a class="btn btn-default btn-lg">`
 <p align="center">  
 <img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/Button.png"  width="70%" height="70%">
 </p>
@@ -77,3 +79,8 @@ Lastly, we modified the HTML file to loop through the dictionary and pull the ti
 <p align="center">  
 <i>Figure 7:hemisphere </i>
 </p>
+
+
+To complete the final deliverable, the following changes were made to the `Bootstrap` components to customize the view of the page:
+
+
