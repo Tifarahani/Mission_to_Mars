@@ -46,11 +46,8 @@ These routes help to display the information on the home page and will perform t
 <p align="center">  
 <i>Figure 4:Scrapping through web  </i>
 </p>
-Next, we integrate Mongo into the web app so that the data stored is updated every time the script, "Scraping.py" is run.
-Lastly, we modified the HTML file to loop through the dictionary and pull the titles and images for the hemispheres of Mars.
 ### Deliverable 3: 
 * Add Bootstrap 3 Components
-
 * Updated the color of the Jumbotron header:
  - **original tag** `<div class_"jumbotron text-center">` & `<a class="btn btn-primary btn-lg">`
 <p align="center">  
