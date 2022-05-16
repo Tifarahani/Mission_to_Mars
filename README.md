@@ -50,27 +50,27 @@ Lastly, we modified the HTML file to loop through the dictionary and pull the ti
 
 
 <p align="center">  
-<img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/Button_Original.png"  width="90%" height="90%">
+<img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/Button_Original.png"  width="70%" height="70%">
 </p>
 <p align="center">  
 <i>Figure 4:Print the list that holds the dictionary of each image url and title and quiting browser </i>
 </p>
 <p align="center">  
-<img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/Button.png"  width="90%" height="90%">
+<img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/Button.png"  width="70%" height="70%">
 </p>
 <p align="center">  
 <i>Figure 5:Print the list that holds the dictionary of each image url and title and quiting browser </i>
 </p>
 
 <p align="center">  
-<img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/OrigHemiPhoto.png"  width="90%" height="90%">
+<img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/OrigHemiPhoto.png"  width="70%" height="70%">
 </p>
 <p align="center">  
 <i>Figure 6 :Original hemisphere </i>
 </p>
 
 <p align="center">  
-<img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/hemisphere.png"  width="50%" height="50%">
+<img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/hemisphere.png"  width="70%" height="70%">
 </p>
 <p align="center">  
 <i>Figure 7:hemisphere </i>
