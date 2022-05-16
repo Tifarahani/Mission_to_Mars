@@ -78,7 +78,7 @@ These routes help to display the information on the home page and will perform t
 <img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/hemisphere.png"  width="70%" height="70%">
 </p>
 <p align="center">  
-<i>Figure 8:hemisphere </i>
+<i>Figure 8:New Orientation hemisphere </i>
 </p>
 
 
