@@ -48,7 +48,6 @@ Lastly, we modified the HTML file to loop through the dictionary and pull the ti
 
 (1) Updated the color of the Jumbotron header by adding gradient color shading and changing the color of the scrape button.
  - **original tag** `<div class_"jumbotron text-center">` & `<a class="btn btn-primary btn-lg">`
- - 
 <p align="center">  
 <img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/Button_Original.png"  width="70%" height="70%">
 </p>
