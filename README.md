@@ -54,7 +54,7 @@ These routes help to display the information on the home page and will perform t
 <img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/Button_Original.png"  width="70%" height="70%">
 </p>
 <p align="center">  
-<i>Figure 5:Print the list that holds the dictionary of each image url and title and quiting browser </i>
+<i>Figure 5:Original Button </i>
 </p>
 
 <p align="center">  
@@ -64,13 +64,12 @@ These routes help to display the information on the home page and will perform t
 <i>Figure 6 :Original hemisphere </i>
 </p>
 
-
 - **updated tag**  `<div style="background:linear-gradient(to bottom, #ffcccc 15%, #e9967a 85%)!important" class="jumbotron text-center">` & `<a class="btn btn-default btn-lg">`
 <p align="center">  
 <img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/Button.png"  width="70%" height="70%">
 </p>
 <p align="center">  
-<i>Figure 7:Print the list that holds the dictionary of each image url and title and quiting browser </i>
+<i>Figure 7:updated jumbotron </i>
 </p>
 
 *  Changed the orientation of the hemisphere images and background color of the entire webpage by modifying the `<body>` tag with  `<body style="background-color:darksalmon; color:black">`.
