@@ -61,7 +61,7 @@ Lastly, we modified the HTML file to loop through the dictionary and pull the ti
 <p align="center">  
 <i>Figure 5 :Original hemisphere </i>
 </p>
-  - **updated tag** `<div style="background:linear-gradient(to bottom, #ffcccc 15%, #e9967a 85%)!important" class="jumbotron text-center">` & `<a class="btn btn-default btn-lg">`
+ - **updated tag** `<div style="background:linear-gradient(to bottom, #ffcccc 15%, #e9967a 85%)!important" class="jumbotron text-center">` & `<a class="btn btn-default btn-lg">`
 <img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/Button.png"  width="70%" height="70%">
 </p>
 <p align="center">  
