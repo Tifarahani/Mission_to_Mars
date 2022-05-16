@@ -70,7 +70,7 @@ Lastly, we modified the HTML file to loop through the dictionary and pull the ti
 </p>
 
 <p align="center">  
-<img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/hemisphere.png"  width="90%" height="90%">
+<img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/hemisphere.png"  width="50%" height="50%">
 </p>
 <p align="center">  
 <i>Figure 7:hemisphere </i>
