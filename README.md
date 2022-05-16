@@ -47,9 +47,31 @@ Next, we integrate Mongo into the web app so that the data stored is updated eve
 Lastly, we modified the HTML file to loop through the dictionary and pull the titles and images for the hemispheres of Mars.
 ### Deliverable 3: 
 * Add Bootstrap 3 Components
+
+
+<p align="center">  
+<img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/Button_Original.png"  width="90%" height="90%">
+</p>
+<p align="center">  
+<i>Figure 4:Print the list that holds the dictionary of each image url and title and quiting browser </i>
+</p>
 <p align="center">  
 <img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/Button.png"  width="90%" height="90%">
 </p>
 <p align="center">  
-<i>Figure 4:Print the list that holds the dictionary of each image url and title and quiting browser </i>
+<i>Figure 5:Print the list that holds the dictionary of each image url and title and quiting browser </i>
+</p>
+
+<p align="center">  
+<img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/OrigHemiPhoto.png"  width="90%" height="90%">
+</p>
+<p align="center">  
+<i>Figure 6 :Original hemisphere </i>
+</p>
+
+<p align="center">  
+<img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/hemisphere.png"  width="90%" height="90%">
+</p>
+<p align="center">  
+<i>Figure 7:hemisphere </i>
 </p>
