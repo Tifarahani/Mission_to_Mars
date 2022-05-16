@@ -72,7 +72,8 @@ These routes help to display the information on the home page and will perform t
 <p align="center">  
 <i>Figure 7:Print the list that holds the dictionary of each image url and title and quiting browser </i>
 </p>
-*  Changed the orientation of the hemisphere images and background color of the entire webpage by modifying the `<body>` tag with `<body style="background-color:darksalmon; color:black">`.
+
+*  Changed the orientation of the hemisphere images and background color of the entire webpage by modifying the `<body>` tag with  `<body style="background-color:darksalmon; color:black">`.
 
 <p align="center"> 
 <img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/hemisphere.png"  width="70%" height="70%">
