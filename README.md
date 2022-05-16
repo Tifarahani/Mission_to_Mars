@@ -41,8 +41,6 @@ The mission to Mars project enable us to use our knowlwdge of web scrapping extr
 Using the database in Mongo, we create a Flask app to connect to the information and create our app routes.
 These routes help to display the information on the home page and will perform the scraping of new data using the codes that we wrote in the Python script.
 
-
-
 Next, we integrate Mongo into the web app so that the data stored is updated every time the script, "Scraping.py" is run.
 Lastly, we modified the HTML file to loop through the dictionary and pull the titles and images for the hemispheres of Mars.
 ### Deliverable 3: 
@@ -55,12 +53,7 @@ Lastly, we modified the HTML file to loop through the dictionary and pull the ti
 <p align="center">  
 <i>Figure 4:Print the list that holds the dictionary of each image url and title and quiting browser </i>
 </p>
-<p align="center">  
-<img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/Button.png"  width="70%" height="70%">
-</p>
-<p align="center">  
-<i>Figure 5:Print the list that holds the dictionary of each image url and title and quiting browser </i>
-</p>
+
 
 <p align="center">  
 <img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/OrigHemiPhoto.png"  width="70%" height="70%">
@@ -68,7 +61,13 @@ Lastly, we modified the HTML file to loop through the dictionary and pull the ti
 <p align="center">  
 <i>Figure 6 :Original hemisphere </i>
 </p>
-
+* updated tag <div style="background:linear-gradient(to bottom, #ee8787 15%, #d9d5d3 85%)!important" class="jumbotron text-center">
+ <p align="center">  
+<img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/Button.png"  width="70%" height="70%">
+</p>
+<p align="center">  
+<i>Figure 5:Print the list that holds the dictionary of each image url and title and quiting browser </i>
+</p>
 <p align="center">  
 <img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/hemisphere.png"  width="70%" height="70%">
 </p>
