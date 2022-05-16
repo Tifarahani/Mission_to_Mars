@@ -41,19 +41,15 @@ The mission to Mars project enable us to use our knowlwdge of web scrapping extr
 Using the database in Mongo, we create a Flask app to connect to the information and create our app routes.
 These routes help to display the information on the home page and will perform the scraping of new data using the codes that we wrote in the Python script.
 
+
+
+Next, we integrate Mongo into the web app so that the data stored is updated every time the script, "Scraping.py" is run.
+Lastly, we modified the HTML file to loop through the dictionary and pull the titles and images for the hemispheres of Mars.
+### Deliverable 3: 
+* Add Bootstrap 3 Components
 <p align="center">  
 <img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/Button.png"  width="90%" height="90%">
 </p>
 <p align="center">  
 <i>Figure 4:Print the list that holds the dictionary of each image url and title and quiting browser </i>
-</p>
-
-Next, we integrate Mongo into the web app so that the data stored is updated every time the script, "Scraping.py" is run.
-### Deliverable 3: 
-* Add Bootstrap 3 Components
-<p align="center">  
-<img src="https://github.com/Tifarahani/Mission_to_Mars/blob/main/img/D1.4..png"  width="90%" height="90%">
-</p>
-<p align="center">  
-<i>Figure 5:Print the list that holds the dictionary of each image url and title and quiting browser </i>
 </p>
